@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.about-main {
+    width: 100%;
+    height: 50vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/img3/about.jpg');
+    margin: 0px 0px;
+
+}
+
+.about-main h1 {
+    font-size: 90px;
+    padding-top: 89px;
+    font-weight: bold;
+    color: #fff;
+   
+
+}
+.heading1 h1{
+    font-size: 70px;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.heading2{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 34px;
+    padding: 12px 23px;
+}
+.heading2 img{
+    margin: 0px 32%;
+    border-radius: 23px;
+}
+.sub-main h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: #273167;
+}
+
+.vm_section {
+    box-shadow: 0 23px 43px 0 rgb(0 0 0 / 13%);
+    margin-bottom: 45px;
+}
+
+.vm_section .img img {
+    width: 100%;
+    height: 75vh;
+    margin-top: 22%;
+}
+
+.vision-heading h1 {
+
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: brown;
+}
