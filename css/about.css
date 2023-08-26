@@ -10,7 +10,7 @@
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/img3/about.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img3/about.jpg');
     margin: 0px 0px;
 
 }
